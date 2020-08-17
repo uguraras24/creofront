@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90534\\Desktop\\webb\\creosafe_front-master\\WebApplication4\\WebApplication4.csproj": {}
+    "C:\\Users\\asus\\Source\\Repos\\uguraras24\\creofront\\WebApplication4\\WebApplication4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90534\\Desktop\\webb\\creosafe_front-master\\WebApplication4\\WebApplication4.csproj": {
+    "C:\\Users\\asus\\Source\\Repos\\uguraras24\\creofront\\WebApplication4\\WebApplication4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90534\\Desktop\\webb\\creosafe_front-master\\WebApplication4\\WebApplication4.csproj",
+        "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\uguraras24\\creofront\\WebApplication4\\WebApplication4.csproj",
         "projectName": "WebApplication4",
-        "projectPath": "C:\\Users\\90534\\Desktop\\webb\\creosafe_front-master\\WebApplication4\\WebApplication4.csproj",
-        "packagesPath": "C:\\Users\\90534\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90534\\Desktop\\webb\\creosafe_front-master\\WebApplication4\\obj\\",
+        "projectPath": "C:\\Users\\asus\\Source\\Repos\\uguraras24\\creofront\\WebApplication4\\WebApplication4.csproj",
+        "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\asus\\Source\\Repos\\uguraras24\\creofront\\WebApplication4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\90534\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -27,6 +27,7 @@ namespace WebApplication4.Controllers
             ClaimsPrincipal cp = this.User;
             String cDisplayName = cp.FindFirst(ClaimTypes.Name).Value;
             ViewBag.userName = cDisplayName;
+            int a = 5;
             return View();
         }
 
